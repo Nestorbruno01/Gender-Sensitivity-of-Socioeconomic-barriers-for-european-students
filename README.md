@@ -11,6 +11,8 @@ The project uses a dataset made by eurostudent.eu to analyze how different aspec
 
 ## 3.	Data source 
 For the project a dataset found at https://database.eurostudent.eu/drm/ will be used, which provides information on student characteristics in 25 European countries. We will concentrate on using the table that divides the students by gender to compare the different results. This table has 25 rows (countries) and 1045 columns, of which around 377 columns are worth looking at for our research question. In total the table has 2950 missing values. For further analysis we might also link this dataset to another dataset of the same website, which contains information about the socio-economic background of students in the 25 European countries.
+For an explanation of why we deleted certain columns from the study, there is this table:
+[Why certain content was not relevant to our research.docx](https://github.com/user-attachments/files/18314360/Why.certain.content.was.not.relevant.to.our.research.docx)
 
 ## Sources
 [^1]:Munir, J., Faiza, M., Jamal, B., Daud, S., & Iqbal, K. (2023). The Impact of Socio-economic Status on Academic Achievement. Journal of Social Sciences Review, 3(2), 695-705.
