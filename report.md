@@ -108,15 +108,13 @@ Since there are more FLINTA\*s among all students, attaining higher education, t
 
 We examine the deviation in attainment across specific socioeconomic characteristics by gender. The diagrams show the European average. The deviation between the classifications in one category were always quite small.
 
-![Fig.2: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Screenshot%202025-03-03%20153947.png)
-
-![Fig.3: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Screenshot%202025-03-03%20153947.png)
+![Fig.2: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Screenshot%202025-03-03%20154052.png)
 
 ![Fig.4: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Screenshot%202025-03-03%20153947.png)
 
 The distribution from “Not at all well-off” to “Very well-off” in the category Parental wealth is very similar between FLINTA\*s and Males. Looking at Financial Difficulties, we can see that among FLINTA\*s the most common reality was to have “Somewhat Financial Difficulties”, as for male students all indicators were quite equally assigned.
 
-![Fig.5: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Screenshot%202025-03-03%20153947.png)
+![Fig.5: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Screenshot%202025-03-03%20154022.png)
 
 When it comes to “Severity of impairment” 40% of Male students assigned themselves to be “Not limited at all in Studies” and with that it was the most attained factor in that category. For FLINTA*s that was the opposite and “Not limited at all in Studies” was the least attained factor, with “Limited in Studies” being the highest. The difference between the distributions regarding to gender had a difference ratio from 5% to 10%.
 
@@ -126,7 +124,7 @@ Male students were more dependent on self-earned income, whereas FLINTA*s were m
 
 ### 4.3 Relation of gender distribution in higher edutcation to countries GDP
 
-![Fig.7: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Screenshot%202025-03-03%20153947.png)
+![Fig.7: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Screenshot%202025-03-03%20154403.png)
 
 Since we suspected that the Gross Domestic Product (GDP) might also have an impact on the attainment of FLINTA\*s, for example through higher financial resources to invest in public services coming with a higher GDP, we investigated this using scatter plots and a regression line. The regression line shows an increase of 1% in attainment with the rise of the GDP from 20000$ GDP per capita to 100000$ GDP per capita. Furthermore, we calculated the Pearson correlation coefficient of FLINTA\*s Attainment in higher education in all fields and the GDP. The results are that r = 0.095, which shows a very weak positive connection between the two variables. The significance test gave a t-statistic of 0.46 and a p-value of 0.65, which means the correlation is not statistically important. Because of this, there is no strong linear relationship between the variables and the small correlation could be linked to random chance. 
 
