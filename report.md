@@ -1,5 +1,6 @@
 # Analysing the genderbased sensitivity towards socio-economic factors in higher education 
 **Date: 2025-03-13**
+
 **Authors:**
 | Name    | Specific contribution to this report |
 | -------- | ------- |
@@ -107,13 +108,25 @@ Since there are more FLINTA\*s among all students, attaining higher education, t
 
 We examine the deviation in attainment across specific socioeconomic characteristics by gender. The diagrams show the European average. The deviation between the classifications in one category were always quite small.
 
+![Fig.2: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Screenshot%202025-03-03%20153947.png)
+
+![Fig.3: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Screenshot%202025-03-03%20153947.png)
+
+![Fig.4: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Screenshot%202025-03-03%20153947.png)
+
 The distribution from “Not at all well-off” to “Very well-off” in the category Parental wealth is very similar between FLINTA\*s and Males. Looking at Financial Difficulties, we can see that among FLINTA\*s the most common reality was to have “Somewhat Financial Difficulties”, as for male students all indicators were quite equally assigned.
 
+![Fig.5: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Screenshot%202025-03-03%20153947.png)
+
 When it comes to “Severity of impairment” 40% of Male students assigned themselves to be “Not limited at all in Studies” and with that it was the most attained factor in that category. For FLINTA*s that was the opposite and “Not limited at all in Studies” was the least attained factor, with “Limited in Studies” being the highest. The difference between the distributions regarding to gender had a difference ratio from 5% to 10%.
+
+![Fig.6: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Screenshot%202025-03-03%20154003.png)
 
 Male students were more dependent on self-earned income, whereas FLINTA*s were more dependent on the family as an income source. 
 
 ### 4.3 Relation of gender distribution in higher edutcation to countries GDP
+
+![Fig.7: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Screenshot%202025-03-03%20153947.png)
 
 Since we suspected that the Gross Domestic Product (GDP) might also have an impact on the attainment of FLINTA\*s, for example through higher financial resources to invest in public services coming with a higher GDP, we investigated this using scatter plots and a regression line. The regression line shows an increase of 1% in attainment with the rise of the GDP from 20000$ GDP per capita to 100000$ GDP per capita. Furthermore, we calculated the Pearson correlation coefficient of FLINTA\*s Attainment in higher education in all fields and the GDP. The results are that r = 0.095, which shows a very weak positive connection between the two variables. The significance test gave a t-statistic of 0.46 and a p-value of 0.65, which means the correlation is not statistically important. Because of this, there is no strong linear relationship between the variables and the small correlation could be linked to random chance. 
 
@@ -123,29 +136,55 @@ The analysis of socio-economic variables for FLINTA\* students is based on a bas
 
 On the **income dependency** front, FLINTA\* students across the 23 countries are generally overrepresented in the **dependent on family category** by an average of approximately +4.9 percentage points. In particular, Finland (+11.87) and Croatia (+10.77) show a strong reliance on family support, while Germany (+7.38), Estonia (+7.28), and Lithuania (+7.04) also exceed the overall trend. In contrast, countries such as France (+0.44) and Spain (+1.53) display only a slight tilt, with Sweden (–0.49) being the only nation with a marginal negative deviation. (see below)
 
+![Fig.8: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Bild2.png)
+
 **When considering dependency on self-earned income**, the average deviation is approximately –2.37 percentage points. This suggests that FLINTA\* students are generally underrepresented in financing themselves through work, although Lithuania (+6.38), Sweden (+3.78), Georgia (+3.39), Latvia (+2.77), and the Netherlands (+1.90) buck the trend. Significant negative deviations are observed in Azerbaijan (–24.75), Portugal (–6.54), Romania (–5.22), as well as Austria (–4.38) and Spain (–3.77). (see below) 
+
+![Fig.9: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Bild3.png)
 
 **For dependency on public student support**, the overall average is slightly negative at –approximately 0.5 percentage points. However, some countries stand out with strong positive values, such as Azerbaijan (+18.03), Georgia (+15.66), Croatia (+11.50) and Lithuania (+9.47), while Estonia (–14.73) and Slovakia (–7.62) report pronounced underrepresentation. Meanwhile, Denmark (+0.76) and Poland (- 0.18) are near the baseline. (see below)
 
+![Fig.10: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Bild4.png)
+
 Turning to **financial difficulties**, the analysis distinguishes among students facing full financial difficulties, those with somewhat financial difficulties, and those not experiencing financial hardships. **FLINTA\* students experiencing financial difficulties** are slightly overrepresented on average by approximately +1.5 percentage points. Malta (+6.88) leads this trend, whereas Germany (–4.83) and Portugal (–3.58) fall significantly below the baseline. (see below)
+
+![Fig.11: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Bild5.png)
 
 **For students with somewhat financial difficulties**, the average deviation is approximately +3.7 percentage points, with Latvia (+8), Netherlands (+ 6.5) and the Czech Republic (+6) showing the strongest overrepresentation. Azerbaijan (–0.04) and Georgia (–0.85) remain nearly balanced. (see below)
 
+![Fig.12: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Bild6.png)
+
 Conversely, among **students without financial difficulties**, there is an average underrepresentation of –3.25 percentage points. Iceland (+0.94) is closest to the baseline, yet Slovakia (–7.81), Romania (–8.14), Malta (-6.74) and Poland (-5,8) stand out as significant negative outliers. (see below) 
+
+![Fig.13: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Bild7.png)
 
 Regarding **parental wealth**, FLINTA\* students from **very well-off families** are moderately underrepresented, with an overall deviation of –5.3 percentage points. Denmark (+4.26) shows the least underrepresentation, while Lithuania (–17.70) and Romania (–16.00) display the most pronounced negative deviations, along with France (–10.74). (see below)
 
+![Fig.14: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Bild8.png)
+
 In the **somewhat well-off category**, the average deviation is approximately –2.4 percentage points. Here, Azerbaijan (+6.22) and Latvia (+3.15) exhibit overrepresentation, whereas Sweden (+0.72), Finland (-0.02) and Denmark (–1.68) remain near the baseline; Lithuania (–7.62), Portugal (-6.2), Spain (-5.5) and Romania (–5.28) are notable negative outliers. (see below)
+
+![Fig.15: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Bild9.png)
 
 When looking at **families of average wealth**, FLINTA\* students are slightly overrepresented by an average of approximately +2.0 percentage points, with Malta (+4.6), Lithuania (+4.24) and Denmark (+4.17) at the forefront, Romania (–0.37) and Azerbaijan (-0.3) hover near the baseline, and Latvia (-2.8) being the only underrepresented country with a moderate significance. (see below)
 
+![Fig.16: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Bild10.png)
+
 In the category of **not very well-off**, there is a slight underrepresentation overall approximately –0.5 percentage points. Yet, Georgia (+5.84) and Netherlands (+4.9) indicate highest overrepresentation, while Austria, Czech Republic Hungary and Iceland very close to the baseline. Malta (–9.69) and Azerbaijan (–6.5) are the most pronounced negative outliers. (see below) 
+
+![Fig.17: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Bild11.png)
 
 For families that are **not at all well-off**, the average deviation is –0.6 percentage point, countries such as Latvia (+8.94) and Denmark (+8.43) show strong overrepresentation. Georgia (+6.61), Netherlands (+7.3) and Croatia (+7.55) also register notable positive values. In contrast, Azerbaijan (-18.9), Lithuania (–12.70) and Finland (–9.78) exhibit the most pronounced underrepresentation. (see below)
 
+![Fig.18: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Bild12.png)
+
 Finally, the analysis of **parental education** considers families with no higher tertiary education versus those with tertiary education. In families **lacking higher tertiary education**, FLINTA\* students are overrepresented by an average of +3.0 percentage points. Countries such as Sweden (+6.9), Poland (+6) and Latvia (+6) are prominent in this regard. On the other hand, Ireland (-0.8) and Azerbaijan (-1.6) are the only underrepresented countries in this category. (see below) 
 
+![Fig.19: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Bild13.png)
+
 By contrast, in **families with tertiary education** the overall trend is a slight underrepresentation, with an average deviation of –2.1 percentage points. Denmark (+1.9) and Malta (+1.60) show the highest overrepresentation. Ireland (+0.01) and Georgia (-0.1) are very near to the baseline, whereas Romania (–7.59), Slovakia (–6.45), Croatia (–5.5) and Poland (–5.6) are significant negative outliers. (see below)
+
+![Fig.20: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Bild14.png)
 
 Overall, these findings offer a comprehensive view of the socio-economic landscape for FLINTA* students across 23 countries, highlighting where they are overrepresented or underrepresented in terms of income dependency, financial difficulties, parental wealth, and education relative to expected baseline levels. 
 
@@ -155,13 +194,27 @@ Women PhD graduation data indicates that in average, across Eurostudent Survey c
 
 On the other hand, countries; France, Austria, Ireland and Georgia remain below average, yet still achieve a high percentage, ranging from 53%-56%. There is only one country, Switzerland (46.97%), that has less than 50% women among PhD graduates, with the fallowing countries Germany (50.65%) and Azerbaijan (50.95%) together being the top three countries from the bottom of the list. (see below) 
 
+![Fig.21: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Bild15.png)
+
 In contrast, since Eurostudent Survey does not include all European countries, global data for Women among PhD graduates is worth looking at. Global data is mostly composed of European countries, but it includes some of the North and South American, Asian and African countries as well, allowing for further analysis and comparison. 
 
 According to the global data, highest top countries in the list are being Albania (66.41%), Canada (66.2%) and Montenegro (64.29%), reaching significant proportions above 60% point. EU average being 46.72% which is observed to fall below all Eurostudent Survey countries. By contrast, Japan is the only significant outlier, being the last country in the list with 31.96% which is way below than all countries in the data. Bosnia Herzegovina with 44.19% point is the closest observation to Japan in the list, being at the second position from the bottom.  (see below) 
 
+![Fig.22: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Bild16.png)
+
 ### Index Results
 
+![Fig.23: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Screenshot%202025-03-03%20154120.png)
+
 The results of the GEITEA index varied between 102.37 for the Netherlands and 84.88 for Azerbaijan. 8 out of 25 participating countries scored higher than 100, thus indicating an advantage for FLINTA\*s in tertiary education access. The other 17 countries scored lower than 100, indicating an advantage for male people in tertiary education access. The average score is 96.9, the standard deviation is 4.422. If the index is calculated by only considering representation within different groups of parental wealth and educational background, most countries score above 100. The reason why a lot of countries scored below 100 in the final calculation is usually due to a significant overrepresentation of FLINTA\*s in groups with financial difficulties and with impairment within studies.
+
+### Live survey
+
+![Fig.24: description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/Screenshot%202025-03-03%20154613.png)
+
+During the gallery walk as a part of the conference week there was a live poll made with everyone being interested in the research question. There were three questions asked with one being the gender of the person.  The possible options were “FLINTA*, Male and Prefer not to assign”. The two following questions were asking for challenging and helping factors in attaining a university degree. The possible answers in both questions were “Financial Situation, Parental Education, School support, Cultural/family expectations, None”.  
+
+It is clear to see, that the financial situation is decisive for one's academic journey. While there are a lot of students feeling limited in their possibilities due to their struggles with financing their studies many other students find their financial situation to be a big advantage. Nevertheless, there are no big differences between the genders except some more FLINTA*s feeling encouraged by parental education.  
 
 ## 5. Discussion
 
