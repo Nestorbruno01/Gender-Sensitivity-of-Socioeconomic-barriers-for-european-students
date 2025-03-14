@@ -85,7 +85,7 @@ For the conceptualisation of an index, we followed Bericat [^3]. The index is de
 To summarize the ratios Ri into one number the GEITEA contains the arithmetic mean of the natural logarithms of the ratios. After calculating the arithmetic mean, the antilogarithm is applied. By this transformation the ratio function changes from a multiplicative into an additive function, thus each category has a linear effect on the final index [^5]. This was also visible in a sensitivity analysis performed with the index. There were some subcategories included in which a higher representation was negative (e.g. severe impairment or financial difficulties in studies). For these we inversed the calculated ratio. We furthermore applied explicit weighting (weighting that is explicitly included and not due to the operationalization on the different categories after calculating the ratios. For that we included numbers from Palmisano [^11] who attempted to quantify causes of inequality within education. We multiplied the final category ratio of each category with a corresponding correlation value from Palmisano and afterwards divided the sum by the total weight before calculating the logarithm. This did not totally eradicate implicit weights from our index, as the impact of a subcategory on the corresponding category value is still only affected by the operative decisions that we made.
 
 ![Fig.1: Index_description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/index-image.jpg)
-*image_caption*
+*Figure 1:Image description: n is the number of components at one level of the index structure; ri is the gender equality ratio of these components; Ri is the value including the corresponding weight wi; ln is the natural logarithm; ex is the natural antilogarithm. *
 
 ### 3.3 Limitations
 
@@ -307,8 +307,8 @@ For an even more detailed view on the problem there needs to be more focus on re
 
 [^11]: Palmisano, F., Biagi, F. & Peragine, V. Inequality of Opportunity in Tertiary Education: Evidence from Europe. Res High Educ 63, 514–565 (2022). https://doi.org/10.1007/s11162-021-09658-4 
 
-[^12] Directorate-General for Education, Youth, Sport and Culture, PISA 2018 and the EU: Striving for social fairness through education. Publications Office of the EU. ISBN: 978-92-76-10360-8, DOI: 10.2766/964797 
+[^12]: Directorate-General for Education, Youth, Sport and Culture, PISA 2018 and the EU: Striving for social fairness through education. Publications Office of the EU. ISBN: 978-92-76-10360-8, DOI: 10.2766/964797 
 
-[^13] OECD (2023), PISA 2022 Results (Volume I): The State of Learning and Equity in Education, PISA, OECD Publishing, Paris, https://doi.org/10.1787/53f23881-en. 
+[^13]: OECD (2023), PISA 2022 Results (Volume I): The State of Learning and Equity in Education, PISA, OECD Publishing, Paris, https://doi.org/10.1787/53f23881-en. 
 
-[^14] Cascella, C., Pampaka, M., & Williams, J. (2024). Gender Attitudes Within and Between European Countries: Regional Variations Matter. SAGE Open, 14(3). https://doi.org/10.1177/21582440241259912 (Original work published 2024)
+[^14]: Cascella, C., Pampaka, M., & Williams, J. (2024). Gender Attitudes Within and Between European Countries: Regional Variations Matter. SAGE Open, 14(3). https://doi.org/10.1177/21582440241259912 (Original work published 2024)
