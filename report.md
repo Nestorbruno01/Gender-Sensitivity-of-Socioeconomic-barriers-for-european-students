@@ -84,7 +84,7 @@ For the conceptualisation of an index, we followed Bericat [^3]. The index is de
 
 To summarize the ratios Ri into one number the GEITEA contains the arithmetic mean of the natural logarithms of the ratios. After calculating the arithmetic mean, the antilogarithm is applied. By this transformation the ratio function changes from a multiplicative into an additive function, thus each category has a linear effect on the final index [^5]. This was also visible in a sensitivity analysis performed with the index. There were some subcategories included in which a higher representation was negative (e.g. severe impairment or financial difficulties in studies). For these we inversed the calculated ratio. We furthermore applied explicit weighting (weighting that is explicitly included and not due to the operationalization on the different categories after calculating the ratios. For that we included numbers from Palmisano [^11] who attempted to quantify causes of inequality within education. We multiplied the final category ratio of each category with a corresponding correlation value from Palmisano and afterwards divided the sum by the total weight before calculating the logarithm. This did not totally eradicate implicit weights from our index, as the impact of a subcategory on the corresponding category value is still only affected by the operative decisions that we made.
 
-![Fig.1: Index_description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/index-image.jpg)
+![Fig.1: Index_description](https://github.com/Nestorbruno01/Gender-Sensitivity-of-Socioeconomic-barriers-for-european-students/blob/main/figures/index-image.jpg “Your image caption”)
 *Figure 1:Image description: n is the number of components at one level of the index structure; ri is the gender equality ratio of these components; Ri is the value including the corresponding weight wi; ln is the natural logarithm; ex is the natural antilogarithm. *
 
 ### 3.3 Limitations
@@ -239,7 +239,7 @@ Reasons for this can be multifaceted. One being potentially lower wages and job 
 
 Similarly in eastern European countries, parental wealth appears to show a gendered effect, as FLINTA\* students appear to be less likely to come from low-income families than male students. This suggests that financial difficulties at the family level in fact do influence FLINTA\* students disproportionally, different to general financial difficulties.  
 
-These findings reinforce prior research, where the educational attainment of marginalized groups is closely linked to the existence of financial support structures [11]. The lack of financial safety nets can disproportionately exclude them from higher education. 
+These findings reinforce prior research, where the educational attainment of marginalized groups is closely linked to the existence of financial support structures [^11]. The lack of financial safety nets can disproportionately exclude them from higher education. 
 
 The GDP does not significantly influence the attainment of FLINTA\*s in higher education, showing a weak and statistically insignificant correlation between both variables. 
 
